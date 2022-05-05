@@ -1,5 +1,5 @@
 :root {
-    --green: #00FF00;
+    --rose: #FFE4E1;
     --white: #ffffff;
     --black: #000000;
 }
@@ -27,7 +27,7 @@ li {
 }
 
 .light-theme {
-    --bg: var(--green);
+    --bg: var(--rose);
     --fontColor: var(--black);
 }
 
